@@ -1,0 +1,10 @@
+langchain
+faiss-cpu
+chromadb
+openai
+tiktoken
+datasets
+pandas
+scikit-learn
+streamlit
+jupyterlab
